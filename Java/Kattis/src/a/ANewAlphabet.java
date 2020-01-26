@@ -3,7 +3,6 @@ package a;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
-//complete
 public class ANewAlphabet {
     public static void main(String[] args) {
         Scanner console = new Scanner(System.in);

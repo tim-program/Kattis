@@ -5,7 +5,6 @@ import java.util.Set;
 import java.util.TreeSet;
 
 public class ABC {
-    //complete
     public static void main(String[] args) {
         Scanner console = new Scanner(System.in);
         Set<Integer> set = new TreeSet<>();

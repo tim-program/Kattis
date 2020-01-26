@@ -1,7 +1,6 @@
 package a;
 
 import java.util.Scanner;
-//complete
 public class Aaah {
     public static void main(String[] args) {
         Scanner console = new Scanner(System.in);

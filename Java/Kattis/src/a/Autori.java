@@ -3,7 +3,6 @@ package a;
 import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-//complete
 public class Autori {
     public static void main(String[] args) {
         Scanner console = new Scanner(System.in);
