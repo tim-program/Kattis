@@ -3,4 +3,5 @@
 *.class
 *.exe
 *.dll
+*.out
 Java/Kattis/out/
